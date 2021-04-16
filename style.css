@@ -1,0 +1,16 @@
+.set
+{
+ background-color: bisque;
+display: flex;
+flex-wrap: wrap;
+ 
+}
+
+.animals
+{
+
+background-color: blue;
+display: flex;
+flex-wrap: wrap;
+
+}
